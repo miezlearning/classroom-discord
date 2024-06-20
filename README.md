@@ -27,6 +27,8 @@ Fitur untuk script ini adalah memberitahukan setiap ada post baru di classroom k
 <Interval Menit> - Setiap 5 menit
 <Pemberitahuan Notifikasi Kegagalan> - Beri tahu saya setiap hari
 ```
+![image](https://github.com/miezlearning/classroom-discord/assets/129609799/ad9a0362-5036-47e9-9066-e845b7352309)
+
 
 11. Dan selesai, konfigurasinya terinstall dengan baik.
 
