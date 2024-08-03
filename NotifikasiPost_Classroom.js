@@ -1,5 +1,5 @@
-const WEBHOOK_URL = "https://discord.com/api/webhooks/1253050435603009707/dx4CWG9QL81tWINibZtcLHS4ObwvtucLN81hUHJvCsbMeCR0qQZ2OtiUsJoEQubhWqCM";
-const CLASS_IDS = ["654150146383"]; // Tambahkan ID kelas yang ingin Anda ambil datanya
+const WEBHOOK_URL = "WEBHOOK_URL"; // BTW PERCUMA LIAT COMMIT URLNYA DAH SAYA RESET
+const CLASS_IDS = ["ID_CLASS"]; // Tambahkan ID kelas yang ingin Anda ambil datanya
 const MAX_DESCRIPTION_LENGTH = 4096;
 const MAX_FIELD_VALUE_LENGTH = 1024;
 const TIME_ZONE = "Asia/Jakarta"; // Atur zona waktu yang diinginkan
